@@ -9,7 +9,7 @@ print(marks[1])
 """
 
 """
-list m hm index ki value change kr skte h only ok 
+ #list m hm index ki value change kr skte h only ok 
 
 student = ["karan", 95.4, 17, "Delhi"]
 
@@ -99,4 +99,33 @@ print(list)
 """
 
 
+"""
+#reverse()
 
+list = ['a', 'd', 'e', 'f', 'c', 'b']
+list.reverse()
+print(list)
+
+"""
+
+
+"""
+#insert(index, value)
+
+list = [2, 1, 3]
+list.insert(1, 5)
+print(list)
+
+
+"""
+
+
+
+"""
+ #pop(index)
+
+list = [2, 1, 3, 1]
+list.pop(2)
+print(list)
+
+"""
